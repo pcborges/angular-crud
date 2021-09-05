@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Preta Teste",
+      "price": 5.9
+    },
+    {
+      "id": 2,
+      "name": "Mouse gamer",
+      "price": 60.2
+    },
+    {
+      "id": 3,
+      "name": "Microfone Profissional",
+      "price": 195.97
+    }
+  ]
+}
